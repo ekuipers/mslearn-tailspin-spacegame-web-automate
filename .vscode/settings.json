@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/873e1725-b0c9-4a73-85b5-802e4d1f212e/resourceGroups/tailspin-spacegame-web-rg/providers/Microsoft.Web/sites/tailspin-space-game-web-dev-2225",
+    "appService.deploySubpath": "Tailspin.SpaceGame.Web"
+}
