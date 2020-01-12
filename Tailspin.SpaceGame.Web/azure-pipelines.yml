@@ -95,7 +95,7 @@ stages:
       condition: succeededOrFailed()
 
 - stage: 'Provision'
-  displayName: 'Provision the database and web application'
+  displayName: 'Provision the database and web application resources'
   jobs: 
   - job: 'DeployInfrastructure'
     displayName: 'Deploy infrastructure job'
